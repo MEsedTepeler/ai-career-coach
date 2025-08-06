@@ -1,2 +1,1 @@
-# ai-career-coach
-AI tabanlı kişisel kariyer destek danışmanı
+# Proje tanıtımı & nasıl başlatılır

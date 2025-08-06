@@ -1,0 +1,1 @@
+# FastAPI uygulamasının başlangıç noktası
